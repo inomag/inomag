@@ -1,4 +1,8 @@
-
+<div align="center">
+  <div>
+    <img src="assets/head.svg" align="center" alt="Hi 👋, I am Pratik Gupta">
+  </div>
+</div>
 
 
 <h4 align="center">HERE ARE SOME IDEAS TO GET YOU STARTED:</h4>
@@ -9,9 +13,7 @@
 💬 Ask me about Android Development & Frontend.<br>
 📫 How to reach me:[pratiksr12345@gmail.com](mailto:pratiksr12345@gmail.com)*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inomag&layout=compact&bg_color=fcfaf6&title_color=000000&text_color=013042&icon_color=dcad39)
-
-
-![Pratik's github stats](https://github-readme-stats.vercel.app/api?username=inomag&bg_color=fcfaf6&title_color=000000&text_color=013042&icon_color=dcad39&show_icons=true&count_private=true)
-
-
+<div align="center">
+    <img height="200px" width="425px" src="https://github-readme-stats.vercel.app/api?username=inomag&bg_color=473f70&title_color=ffffff&text_color=ffffff&icon_color=b16da0&show_icons=true&count_private=true">
+    <img height="200px" width="354px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inomag&layout=compact&bg_color=473f70&title_color=ffffff&text_color=ffffff&icon_color=b16da0">
+</div>
