@@ -21,16 +21,16 @@
 <br>
 <div align="center">
     <div>
-            <a href="https://codesandbox.io/u/anuraghazra">
+            <a href="https://www.facebook.com/pratiksr123/">
                 <img alt="" width="100px" src="assets/facebook.svg" />
             </a>&nbsp;
-            <a href="https://codesandbox.io/u/anuraghazra">
+            <a href="https://github.com/inomag">
                 <img alt="" width="100px" src="assets/github.svg" />
             </a>
-             <a href="https://codesandbox.io/u/anuraghazra">
+             <a href="https://www.instagram.com/pratiik_11/">
                 <img alt="" width="100px" src="assets/instagram.svg" />
             </a>&nbsp;
-            <a href="https://codesandbox.io/u/anuraghazra">
+            <a href="https://www.linkedin.com/in/pratik-gupta-7951b7191/">
                 <img alt="" width="100px" src="assets/linkedin.svg" />
             </a>
             <img src="assets/home.svg" height="300px">
