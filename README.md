@@ -1,4 +1,4 @@
-<div style="background:url(https://img.freepik.com/free-vector/minimal-triangle-pattern-design-pastel-colors_1017-14885.jpg?size=338&ext=jpg);background-cover;cover;display:flex;justify-content:center;align-item:center;border-radius:8px;margin:0 0 30px 0;box-shadow: 0px 0px 26px 2px rgba(245,224,157,1);"><h1 align="center" style="">Hi 👋, I am Pratik Gupta</h1></div>
+<div style="background:url(https://img.freepik.com/free-vector/minimal-triangle-pattern-design-pastel-colors_1017-14885.jpg?size=338&ext=jpg);background-cover;cover;display:flex;justify-content:center;align-item:center;border-radius:8px;margin:0 0 30px 0;box-shadow: 0px 0px 26px 2px rgba(245,224,157,1);" markdown="1"><h1 align="center" style="">Hi 👋, I am Pratik Gupta</h1></div>
 
 Here are some ideas to get you started:
 
