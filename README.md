@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="assets/head.svg" align="center" alt="Hi 👋, I am Pratik Gupta">
+    <img height="175px" src="assets/head.svg" align="center" alt="Hi 👋, I am Pratik Gupta">
   </div>
 </div>
 
@@ -14,6 +14,6 @@
 📫 How to reach me:[pratiksr12345@gmail.com](mailto:pratiksr12345@gmail.com)*
 
 <div align="center">
-    <img height="200px" width="425px" src="https://github-readme-stats.vercel.app/api?username=inomag&bg_color=473f70&title_color=ffffff&text_color=ffffff&icon_color=b16da0&show_icons=true&count_private=true">
-    <img height="200px" width="354px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inomag&layout=compact&bg_color=473f70&title_color=ffffff&text_color=ffffff&icon_color=b16da0">
+    <img height="200px" width="425px" src="https://github-readme-stats.vercel.app/api?username=inomag&bg_color=682d59&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_icons=true&count_private=true">
+    <img height="200px" width="354px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inomag&layout=compact&bg_color=682d59&title_color=ffffff&text_color=ffffff&icon_color=ffffff">
 </div>
