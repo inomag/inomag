@@ -26,17 +26,27 @@
             </a>&nbsp;
             <a href="https://github.com/inomag">
                 <img alt="" width="100px" src="assets/github.svg" />
-            </a>
+            </a>&nbsp;
              <a href="https://www.instagram.com/pratiik_11/">
                 <img alt="" width="100px" src="assets/instagram.svg" />
             </a>&nbsp;
             <a href="https://www.linkedin.com/in/pratik-gupta-7951b7191/">
                 <img alt="" width="100px" src="assets/linkedin.svg" />
-            </a>
+            </a>&nbsp;
             <img src="assets/home.svg" height="300px">
 </div>
 <br>
 
+## LANGUAGE & TOOLS
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;&nbsp;![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)&nbsp;&nbsp;![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=for-the-badge&logo=Node.js)
+![Java](https://img.shields.io/badge/-java-257fbd?style=for-the-badge&logo=java&logoColor=e51f24)&nbsp;&nbsp;![Kotlin](https://img.shields.io/badge/-kotlin-e67732?style=for-the-badge&logo=kotlin&logoColor=6272d9)&nbsp;&nbsp;![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
+![MongoDB](https://img.shields.io/badge/-MongoDB-5a3e35?style=for-the-badge&logo=mongodb)&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-42759c?style=for-the-badge&logo=mysql&logoColor=de8b2d)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+</div>
+
+
 ___
-#### LANGUAGE & TOOLS
-___
+<p align="center">
+  <img src="https://profile-counter.glitch.me/inomag/count.svg" />
+</p>
