@@ -1,19 +1,42 @@
 <div align="center">
-  <div>
-    <img height="175px" src="assets/head.svg" align="center" alt="Hi 👋, I am Pratik Gupta">
-  </div>
+    <div>
+		<img height="175px" src="assets/head.svg" alt="Hi 👋, I am Pratik Gupta">
+	</div>
 </div>
-
+<br>
 
 <h4 align="center">HERE ARE SOME IDEAS TO GET YOU STARTED:</h4>
 
-*🌱 I’m currently learning JS Frameworks.<br>
-👯 I’m looking to collaborate on Web Development Projects.<br> 
-🤔 I’m looking for help with Backend.<br>
-💬 Ask me about Android Development & Frontend.<br>
-📫 How to reach me:[pratiksr12345@gmail.com](mailto:pratiksr12345@gmail.com)*
+- *🌱 I’m currently learning JS Frameworks.*
+- *👯 I’m looking to collaborate on Web Development Projects.*
+- *🤔 I’m looking for help with Backend.*
+- *💬 Ask me about Android Development & Frontend.*
+- *📫 How to reach me: [pratiksr12345@gmail.com](mailto:pratiksr12345@gmail.com)*
 
 <div align="center">
-    <img height="200px" width="425px" src="https://github-readme-stats.vercel.app/api?username=inomag&bg_color=682d59&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_icons=true&count_private=true">
-    <img height="200px" width="354px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inomag&layout=compact&bg_color=682d59&title_color=ffffff&text_color=ffffff&icon_color=ffffff">
+    <img height="200px" width="425px" src="https://github-readme-stats.vercel.app/api?username=inomag&bg_color=18,c33764,1d2671&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_icons=true&count_private=true">
+    <img height="200px" width="354" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inomag&layout=compact&bg_color=0,c33764,1d2671&title_color=ffffff&text_color=ffffff&icon_color=b16da0">
 </div>
+
+<br>
+<div align="center">
+    <div>
+            <a href="https://codesandbox.io/u/anuraghazra">
+                <img alt="" width="100px" src="assets/facebook.svg" />
+            </a>&nbsp;
+            <a href="https://codesandbox.io/u/anuraghazra">
+                <img alt="" width="100px" src="assets/github.svg" />
+            </a>
+             <a href="https://codesandbox.io/u/anuraghazra">
+                <img alt="" width="100px" src="assets/instagram.svg" />
+            </a>&nbsp;
+            <a href="https://codesandbox.io/u/anuraghazra">
+                <img alt="" width="100px" src="assets/linkedin.svg" />
+            </a>
+            <img src="assets/home.svg" height="300px">
+</div>
+<br>
+
+___
+#### LANGUAGE & TOOLS
+___
