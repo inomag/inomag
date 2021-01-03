@@ -14,8 +14,7 @@
 - *📫 How to reach me: [pratiksr12345@gmail.com](mailto:pratiksr12345@gmail.com)*
 
 <div align="center">
-    <img style="box-shadow:20px 20px 60px #47cf8d, 
-             -20px -20px 60px #5fffbf;" height="200px" width="425px" src="https://github-readme-stats.vercel.app/api?username=inomag&bg_color=18,c33764,1d2671&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_icons=true&count_private=true">
+    <img height="200px" width="425px" src="https://github-readme-stats.vercel.app/api?username=inomag&bg_color=18,c33764,1d2671&title_color=ffffff&text_color=ffffff&icon_color=ffffff&show_icons=true&count_private=true">
     <img height="200px" width="354" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inomag&layout=compact&bg_color=0,c33764,1d2671&title_color=ffffff&text_color=ffffff&icon_color=b16da0">
 </div>
 
