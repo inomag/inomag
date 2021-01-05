@@ -48,6 +48,14 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-052e60?style=for-the-badge&logo=adobe-photoshop)&nbsp;&nbsp;![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=ffffff)<br>
 
 ___
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inomag&theme=tokyonight)](https://github.com/inomag)
+
+</div>
+
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/inomag/count.svg" />
 </p>
