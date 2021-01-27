@@ -49,12 +49,6 @@
 
 ___
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inomag&theme=tokyonight)](https://github.com/inomag)
-
-</div>
-
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/inomag/count.svg" />
