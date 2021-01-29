@@ -7,9 +7,10 @@
 
 <h4 align="center">HERE ARE SOME IDEAS TO GET YOU STARTED:</h4>
 
-- *🌱 I’m currently learning JS Frameworks.*
-- *👯 I’m looking to collaborate on Web Development Projects.*
+- *🌱 I’m currently learning :confused::confused:.*
+- *👯 I’m looking to collaborate on Web Development and Android Projects.*
 - *🤔 I’m looking for help with Backend.*
+- *:relieved: I'm currently working on an Android Project.*
 - *💬 Ask me about Android Development & Frontend.*
 - *📫 How to reach me: [pratiksr12345@gmail.com](mailto:pratiksr12345@gmail.com)*
 
