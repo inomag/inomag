@@ -21,33 +21,6 @@
 
 <br>
 
-<img src="assets/home.svg" height="300px" align="right"/>
-
-## CONNECT WITH ME
-
-<a href="https://www.facebook.com/pratiksr123/">
-                <img alt="" width="100px" src="assets/facebook.svg" />
-            </a>
-<a href="https://github.com/inomag">
-                <img alt="" width="100px" src="assets/github.svg" />
-</a>
-             <a href="https://www.instagram.com/pratiik_11/">
-                <img alt="" width="100px" src="assets/instagram.svg" />
-            </a>
-            <a href="https://www.linkedin.com/in/pratik-gupta-7951b7191/">
-                <img alt="" width="100px" src="assets/linkedin.svg" />
-            </a>
-<br>
-
-## LANGUAGE & TOOLS
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)<br>
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)&nbsp;&nbsp;![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=for-the-badge&logo=Node.js)<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;&nbsp;![Java](https://img.shields.io/badge/-java-257fbd?style=for-the-badge&logo=java&logoColor=e51f24)&nbsp;&nbsp;![Kotlin](https://img.shields.io/badge/-kotlin-e67732?style=for-the-badge&logo=kotlin&logoColor=6272d9)&nbsp;&nbsp;![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)<br>
-![MongoDB](https://img.shields.io/badge/-MongoDB-5a3e35?style=for-the-badge&logo=mongodb)&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-42759c?style=for-the-badge&logo=mysql&logoColor=de8b2d)<br>
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)&nbsp;&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;&nbsp;![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)<br>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;&nbsp;![Eclipse](https://img.shields.io/badge/-Eclipse-ef8f1d?style=for-the-badge&logo=eclipse-ide&logoColor=443483)&nbsp;&nbsp;![Android Studio](https://img.shields.io/badge/-Android%20Studio-3ddc84?style=for-the-badge&logo=android-studio&logoColor=000000)<br>
-![Photoshop](https://img.shields.io/badge/-Photoshop-052e60?style=for-the-badge&logo=adobe-photoshop)&nbsp;&nbsp;![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=ffffff)<br>
-
 ___
 
 
