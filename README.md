@@ -10,7 +10,7 @@
 - *:blush: Ask me about Native Android, UI/UX & Web Development.*
 - *:bell: How to reach me: [pratiksr12345@gmail.com](mailto:pratiksr12345@gmail.com).*
 
-<div align="center">
+<div align="left">
     <img height="150px" width="450px" src="https://github-readme-stats.vercel.app/api?username=inomag&bg_color=292929&title_color=ffffff&text_color=fbc425&icon_color=ffffff&show_icons=true&count_private=true&hide_border=true&border_radius=0">
 </div>
 
