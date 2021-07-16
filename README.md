@@ -5,7 +5,6 @@
 </div>
 <br>
 
-- *:innocent: I’m currently learning Data Analysis.*
 - *:grin: I’m looking to collaborate on Web and Android Projects.*
 - *:blush: Ask me about Native Android, UI/UX & Web Development.*
 - *:bell: How to reach me: [pratiksr12345@gmail.com](mailto:pratiksr12345@gmail.com).*
