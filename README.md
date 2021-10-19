@@ -1,4 +1,4 @@
-# *Hey, I'm Pratik Gupta :wave:*
+### *Hey, I'm Pratik Gupta :wave:*
 
 *Currently studying Computer Science and Engineering at [NIT Silchar](http://www.nits.ac.in/).*
 <br />
@@ -9,8 +9,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:pratiksr12345@gmail.com)](mailto:pratiksr12345@gmail.com)
 ![Followers Badge](https://img.shields.io/github/followers/inomag?style=social)
 <!-- [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.link/ccl4l6)](https://wa.link/ccl4l6) -->
-
-### *A bit more* 🐼
 
 Technology enthusiast to the core who likes to explore new challenges and learn new things. Android Development, Spring, UI/UX are my particular forte. Love working out on aptitude and logical reasoning. 
 
