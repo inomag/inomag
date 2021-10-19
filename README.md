@@ -1,5 +1,4 @@
-### *Hey, I'm Pratik Gupta :wave:*
-<br/>
+# *Hey, I'm Pratik Gupta :wave:*
 
 *Currently studying Computer Science and Engineering at [NIT Silchar](http://www.nits.ac.in/).*
 <br />
