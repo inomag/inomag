@@ -12,7 +12,7 @@
 
 Technology enthusiast to the core who likes to explore new challenges and learn new things. Android Development, Spring, UI/UX are my particular forte. Love working out on aptitude and logical reasoning. 
 
-- *💻 Currently working on a freelancing android project*
+- *💻 Currently working on a freelance android project*
 - *🚀 Practising Data Structures & Algorithms at [LeetCode](https://leetcode.com/inomag/)*
 - *💬 Ask me anything. Will try to help as much as I can*
 - *📑 My [Resume](https://drive.google.com/file/d/1TBTDNSRTO5UEBZcKiMbcfRNnVmrOGEHS/view?usp=sharing)*
