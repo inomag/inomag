@@ -1,8 +1,8 @@
 ### *Hey, I'm Pratik Gupta :wave:*
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Currently studying Computer Science and Engineering at [NIT Silchar](http://www.nits.ac.in/).*
-<br />
+[![](https://socialify.git.ci/inomag/inomag/image?description=1&descriptionEditable=Pratik%20Gupta&font=Raleway&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F188%2F188990.png&owner=1&pattern=Circuit%20Board&theme=Light)](https://pokemondb.net/pokedex/charmander)
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/pratiksr123/)](https://www.facebook.com/pratiksr123/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-gupta-7951b7191/)](https://www.linkedin.com/in/pratik-gupta-7951b7191/)
@@ -11,6 +11,9 @@
 ![Followers Badge](https://img.shields.io/github/followers/inomag?style=social)
 ![Visitor's Badge](https://komarev.com/ghpvc/?username=inomag&style=flat&color=4ca3dd)
 <!-- [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.link/ccl4l6)](https://wa.link/ccl4l6) -->
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently studying Computer Science and Engineering at [NIT Silchar](http://www.nits.ac.in/).
+<br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technology enthusiast to the core who likes to explore new challenges and learn new things. Android Development, Spring, UI/UX are my particular forte. Love working out on aptitude and logical reasoning.</span>
 
@@ -30,10 +33,7 @@
 
 #### 📈 My GitHub Stats:
 <p style="text-align: center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inomag&theme=nord_bright" />
-  <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inomag&theme=nord_bright" />
-  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inomag&theme=nord_bright" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="200em" src="https://github-readme-stats.vercel.app/api?username=inomag&theme=graywhite&show_icons=true&hide_border=false&custom_title=My_Github_Stats&border_radius=0&include_all_commits=true&count_private=true" />
 </p>
 
 
