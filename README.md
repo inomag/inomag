@@ -23,8 +23,8 @@
 
 #### 📈 My GitHub Stats:
 <p style="text-align: center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inomag&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=graywhite&custom_title=My+Github+Stats:" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inomag&show_icons=true&layout=compact&langs_count=10&theme=graywhite&custom_title=Recently+used+languages:"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=inomag&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=graywhite&custom_title=My+Github+Stats:" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inomag&show_icons=true&layout=compact&langs_count=10&theme=graywhite&custom_title=Recently+used+languages:"/>
 </p>
 
 #### ✨ Skills:
