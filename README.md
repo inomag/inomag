@@ -1,10 +1,10 @@
 ### *Hey, I'm Pratik Gupta :wave:*
 <br />
 
-*Currently studying Computer Science and Engineering at [NIT Silchar](http://www.nits.ac.in/).*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Currently studying Computer Science and Engineering at [NIT Silchar](http://www.nits.ac.in/).*
 <br />
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/pratiksr123/)](https://www.facebook.com/pratiksr123/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/pratiksr123/)](https://www.facebook.com/pratiksr123/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-gupta-7951b7191/)](https://www.linkedin.com/in/pratik-gupta-7951b7191/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/pratiik_11/)](https://www.instagram.com/pratiik_11/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:pratiksr12345@gmail.com)](mailto:pratiksr12345@gmail.com)
@@ -12,7 +12,7 @@
 ![Visitor's Badge](https://komarev.com/ghpvc/?username=inomag&style=flat&color=4ca3dd)
 <!-- [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.link/ccl4l6)](https://wa.link/ccl4l6) -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technology enthusiast to the core who likes to explore new challenges and learn new things. Android Development, Spring, UI/UX are my particular forte. Love working out on aptitude and logical reasoning. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technology enthusiast to the core who likes to explore new challenges and learn new things. Android Development, Spring, UI/UX are my particular forte. Love working out on aptitude and logical reasoning.</div>
 
 #### 🙋‍♂️ More about me:
 - *🎯 Aim for 2021 is to learn new things and contribute to open source*
@@ -21,10 +21,6 @@
 - *💬 Ask me anything. Will try to help as much as I can*
 - *📑 My [Resume](https://drive.google.com/file/d/1TBTDNSRTO5UEBZcKiMbcfRNnVmrOGEHS/view?usp=sharing)*
 
-#### 📈 My GitHub Stats:
-<p style="text-align: center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inomag&theme=nord_bright" />
-</p>
 
 #### ✨ Skills:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Languages* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![][java] ![][cpp] ![][js] ![][html] ![][css] <br />
@@ -32,7 +28,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Tools*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![][android] ![][figma] ![][firebase] ![][git] ![][maven] ![][vscode] <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Database*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![][mongo] ![][mysql] ![][firestore] <br />
 
-<br />
+#### 📈 My GitHub Stats:
+<p style="text-align: center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inomag&theme=nord_bright" />
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inomag&theme=nord_bright" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inomag&theme=nord_bright" />
+</p>
+
+
+
 
 
 
