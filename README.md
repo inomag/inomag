@@ -1,6 +1,3 @@
-### *Hey, I'm Pratik Gupta :wave:*
-<br />
-
 [![](https://socialify.git.ci/inomag/inomag/image?description=1&descriptionEditable=Pratik%20Gupta&font=Raleway&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F188%2F188990.png&owner=1&pattern=Circuit%20Board&theme=Light)](https://pokemondb.net/pokedex/charmander)
 
 
@@ -33,7 +30,7 @@
 
 #### 📈 My GitHub Stats:
 <p style="text-align: center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="200em" src="https://github-readme-stats.vercel.app/api?username=inomag&theme=graywhite&show_icons=true&hide_border=false&custom_title=My_Github_Stats&border_radius=0&include_all_commits=true&count_private=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inomag&theme=graywhite&show_icons=true&hide_border=false&custom_title=My_Github_Stats&border_radius=0&include_all_commits=true&count_private=true" />
 </p>
 
 
