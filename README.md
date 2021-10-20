@@ -12,7 +12,7 @@
 ![Visitor's Badge](https://komarev.com/ghpvc/?username=inomag&style=flat&color=4ca3dd)
 <!-- [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.link/ccl4l6)](https://wa.link/ccl4l6) -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technology enthusiast to the core who likes to explore new challenges and learn new things. Android Development, Spring, UI/UX are my particular forte. Love working out on aptitude and logical reasoning.</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technology enthusiast to the core who likes to explore new challenges and learn new things. Android Development, Spring, UI/UX are my particular forte. Love working out on aptitude and logical reasoning.</span>
 
 #### 🙋‍♂️ More about me:
 - *🎯 Aim for 2021 is to learn new things and contribute to open source*
