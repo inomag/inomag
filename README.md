@@ -32,9 +32,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Database*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![][mongo] ![][mysql] ![][firestore] <br />
 
 #### 📈 My GitHub Stats:
-<p style="text-align: center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=inomag&theme=graywhite&show_icons=true&hide_border=false&custom_title=Pratik's%20Github%20Stats&border_radius=0&include_all_commits=true&count_private=true" />
-</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inomag&theme=graywhite&show_icons=true&hide_border=false&custom_title=Pratik's%20Github%20Stats&border_radius=0&include_all_commits=true&count_private=true" />
+
 
 
 
