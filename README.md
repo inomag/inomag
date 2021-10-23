@@ -1,10 +1,13 @@
-[![](https://socialify.git.ci/inomag/inomag/image?description=1&descriptionEditable=Pratik%20Gupta&font=Raleway&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F188%2F188990.png&owner=1&pattern=Circuit%20Board&theme=Light)](https://pokemondb.net/pokedex/charmander)
+<img width="100%" height="400em" src="https://socialify.git.ci/inomag/inomag/image?description=1&descriptionEditable=Pratik%20Gupta&font=Raleway&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F188%2F188990.png&owner=1&pattern=Circuit%20Board&theme=Light" />
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/pratiksr123/)](https://www.facebook.com/pratiksr123/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-gupta-7951b7191/)](https://www.linkedin.com/in/pratik-gupta-7951b7191/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/pratiik_11/)](https://www.instagram.com/pratiik_11/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:pratiksr12345@gmail.com)](mailto:pratiksr12345@gmail.com)
+<!-- [![](https://socialify.git.ci/inomag/inomag/image?description=1&descriptionEditable=Pratik%20Gupta&font=Raleway&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F188%2F188990.png&owner=1&pattern=Circuit%20Board&theme=Light)](https://pokemondb.net/pokedex/charmander) -->
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Facebook Badge][fb]](https://www.facebook.com/pratiksr123/)
+[![Linkedin Badge][linkedin]](https://www.linkedin.com/in/pratik-gupta-7951b7191/)
+[![Instagram Badge][instagram]](https://www.instagram.com/pratiik_11/)
+[![Gmail Badge][gmail]](mailto:pratiksr12345@gmail.com)
 ![Followers Badge](https://img.shields.io/github/followers/inomag?style=social)
 ![Visitor's Badge](https://komarev.com/ghpvc/?username=inomag&style=flat&color=4ca3dd)
 <!-- [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.link/ccl4l6)](https://wa.link/ccl4l6) -->
@@ -30,13 +33,18 @@
 
 #### 📈 My GitHub Stats:
 <p style="text-align: center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inomag&theme=graywhite&show_icons=true&hide_border=false&custom_title=My_Github_Stats&border_radius=0&include_all_commits=true&count_private=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=inomag&theme=graywhite&show_icons=true&hide_border=false&custom_title=Pratik's%20Github%20Stats&border_radius=0&include_all_commits=true&count_private=true" />
 </p>
 
 
 
 
 
+
+[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-gupta-7951b7191/
+[instagram]: https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/pratiik_11/
+[gmail]: https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:pratiksr12345@gmail.com
+[fb]: https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/pratiksr123/
 
 
 [java]: https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white
