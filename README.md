@@ -1,4 +1,4 @@
-<img src="https://socialify.git.ci/inomag/inomag/image?description=1&descriptionEditable=Pratik%20Gupta&font=Raleway&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F188%2F188990.png&owner=1&pattern=Circuit%20Board&theme=Light" />
+<!-- <img src="https://socialify.git.ci/inomag/inomag/image?description=1&descriptionEditable=Pratik%20Gupta&font=Raleway&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F188%2F188990.png&owner=1&pattern=Circuit%20Board&theme=Light" height="50px" width="300px"/> -->
 
 
 <!-- [![](https://socialify.git.ci/inomag/inomag/image?description=1&descriptionEditable=Pratik%20Gupta&font=Raleway&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F188%2F188990.png&owner=1&pattern=Circuit%20Board&theme=Light)](https://pokemondb.net/pokedex/charmander) -->
